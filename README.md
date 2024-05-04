@@ -1,4 +1,4 @@
-# provider_and_http
+# simple counter app using provider
 
 A new Flutter project.
 
